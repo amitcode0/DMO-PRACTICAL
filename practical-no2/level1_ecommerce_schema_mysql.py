@@ -70,4 +70,4 @@ CREATE TABLE IF NOT EXISTS reviews (
 # Commit and close
 conn.commit()
 conn.close()
-print("✅ Level 1: Full e-commerce schema created in MySQL.")
+print("Level 1: Full e-commerce schema created in MySQL.")

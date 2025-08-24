@@ -28,4 +28,4 @@ CREATE TABLE IF NOT EXISTS courses (
 # Commit and close
 conn.commit()
 conn.close()
-print("✅ Level 3: Students and Courses tables created in SQLite.")
+print("Level 3: Students and Courses tables created in SQLite.")
